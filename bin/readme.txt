@@ -1,0 +1,1 @@
+This folder contains binary programs used by the app.
